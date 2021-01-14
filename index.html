@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>MY APP</title>
+  </head>
+  <body>
+    <h1>May Node and Express be with you.</h1>
+    <form action="/message" method="POST">
+      <input type="text" placeholder="name" name="name" />
+      <label for="encryption">Choose encryption type:</label>
+
+      <select name="encryption" id="ency_type">
+        <option value="backwards">backwards</option>
+        <option value="emo-gize">emo-gize</option>
+        <option value="letter-scramble">letter-scramble</option>
+        <option value="nothing">nothing</option>
+      </select>
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
