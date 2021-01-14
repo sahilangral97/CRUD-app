@@ -50,4 +50,4 @@ npm run serve
 
 Screenshots
 
-![image](/screenshots/Home Page.png)
+![image](./screenshots/home_page.png)
