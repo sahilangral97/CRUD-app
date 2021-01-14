@@ -49,5 +49,14 @@ npm run serve
 ```
 
 Screenshots
-
+Home Page
 ![image](./screenshots/home_page.png)
+
+Create Message Page
+![image](./screenshots/add_message.png)
+
+Show Original Message
+![image](./screenshots/originalmesssage.png)
+
+Update Message
+![image](./screenshots/update_messsage.png)
